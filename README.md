@@ -6,7 +6,6 @@ Welcome to the AI Renaissance Weekly Newsletter repository! Here, you will find 
 
 - [About](#about)
 - [How to Access](#how-to-access)
-- [Weekly Editions](#weekly-editions)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
